@@ -1,11 +1,11 @@
-#include<conio.h>
+intf("1 for english\n");
+	prin#include<conio.h>
 #include<stdio.h>
 main()
 {
 	int choice;
 	clrscr();
-	printf("1 for english\n");
-	printf("2 for hindi\n");
+	prtf("2 for hindi\n");
 	printf("3 for gujarati\n");
 	printf("enter your choice : ");
 	scanf("%d",&choice);
